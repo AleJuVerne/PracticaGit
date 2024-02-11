@@ -7,7 +7,7 @@ public class prueba {
 		System.out.println("Nuevo cambio");
 		System.out.println("Este cambio se ha hecho desde GitHub");
 		System.out.println("Nuevo cambio desde local");
-		System.out.println("Linea desde GitHub para eclipse");
+		System.out.println("Cambios realizado a esta linea desde eclipse");
 	}
 
 }
