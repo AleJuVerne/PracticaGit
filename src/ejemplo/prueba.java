@@ -11,7 +11,7 @@ public class prueba {
 		System.out.println("Linea Agregada desde Spring Boot");
 		System.out.println("Linea de GitHUb modificada en Spring");
 		System.out.println("Linea agregada desde VSCode");
-		System.out.println("Linea agregada desde GitHub para VSCode");
+		System.out.println("Linea agregada desde GitHub para VSCode y modificada ahora desde VSCode");
 	}
 
 }
